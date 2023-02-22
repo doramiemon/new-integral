@@ -44,8 +44,8 @@ for n in range(0,mondai_su):
     expander = st.expander('解答'+str(numbers[n]))
     expander.image(image2,use_column_width=True)
 
-""""
-#もう一度別の問題で、ランダム演習を行う場合は、urlから再びこのサイトに入り直してください
+"""
+もう一度別の問題で、タイムアタックを行う場合は、urlから再びこのサイトに入り直してください
 """
 
 
