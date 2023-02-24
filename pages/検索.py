@@ -15,7 +15,7 @@ expander.image(image2,use_column_width=True)
 
 zettai = [3, 12]
 tikan = [4, 5, 8, 11, 13, 16]
-bubun = [7, 10, 18]
+bubun = [9, 10, 18]
 
 genre = st.radio(
     "解法で調べる",
